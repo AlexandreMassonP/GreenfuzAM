@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+/* /error.html 404
+
+/categories/:slug  /categories/:slug
+/commande/:slug  /commande/:slug
